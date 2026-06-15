@@ -24,3 +24,5 @@ docs/references/*.mov
 .vscode/
 .idea/
 node_modules
+
+.env.local
